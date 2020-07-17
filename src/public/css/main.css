@@ -1,0 +1,381 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap");
+@import url("https://use.typekit.net/okg3zme.css");
+body {
+  background: #fff;
+  font-size: 16px;
+  font-family: europa, sans-serif;
+  font-weight: 400; }
+
+.home__intro--slide1 {
+  background: url(./images/girlwithskullshirt.jpg);
+  background-size: cover;
+  height: 40rem;
+  position: relative;
+  z-index: 0; }
+
+.home__intro--slide2 {
+  background: url(./images/blondeafro.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 40rem;
+  position: relative;
+  z-index: 0; }
+
+.home__intro--slide3 {
+  background: url(./images/shoeswhitebg.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: right;
+  height: 40rem;
+  position: relative;
+  z-index: 0; }
+
+.home__nav--navbar {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  height: 6rem;
+  font-size: 1rem;
+  font-family: europa, sans-serif;
+  font-weight: 400;
+  background: #fff;
+  position: relative;
+  z-index: 1; }
+
+.home__nav--navbar--brandlogo {
+  align-items: center;
+  padding: 0 0 0 2rem; }
+
+.home__nav--navbar--brandlogo a {
+  font-family: europa, sans-serif;
+  font-weight: 900;
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 4px; }
+
+.home__nav--navlist {
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  color: #000; }
+
+.home__nav--navlist a {
+  font-size: 0.9rem;
+  font-family: europa, sans-serif;
+  font-weight: 400;
+  color: #000; }
+
+.home__nav--navlist:active {
+  font-size: 0.8rem;
+  font-family: europa, sans-serif;
+  font-weight: 400;
+  text-decoration: none; }
+
+.home__nav--navlist--droplist {
+  background-color: #fff;
+  border: none;
+  position: relative;
+  z-index: 1; }
+
+form {
+  border: none;
+  background: transparent;
+  max-width: 30rem; }
+
+.home__nav--navbar--useractions {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin: 0 0 0 16rem;
+  color: gray; }
+
+.home__nav--navbar--useractions svg {
+  margin: 0 2rem 0 0; }
+
+.home__nav--navbar--useractions--search input {
+  border: none;
+  border-bottom: 1px solid #000;
+  background: transparent;
+  outline: none;
+  font-size: 0.8rem;
+  color: #000; }
+
+.home__nav--navbar--useractions--search button {
+  border: none;
+  color: #000;
+  background: transparent;
+  outline: none; }
+
+.home__nav--navbar--useractions--search button:hover {
+  border: none;
+  color: #000;
+  background: transparent;
+  outline: none; }
+
+.home__section2--label {
+  padding: 2rem 0 0 2rem;
+  font-size: 1.4rem; }
+
+.home__section2 {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  margin: 3rem auto 7rem auto;
+  justify-content: center;
+  align-items: center; }
+
+.home__section2 h1 {
+  font-size: 1rem; }
+
+.home__section2 span {
+  background-color: #fff791;
+  position: relative;
+  top: 1rem;
+  font-size: 1rem;
+  font-weight: 500;
+  padding: 1rem; }
+
+.home__section2--slide1 {
+  background: url(./images/homeshopshoes.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 19rem;
+  width: 26rem;
+  position: relative;
+  z-index: 0;
+  margin: auto;
+  padding: 1.6rem; }
+
+.home__section2--slide2 {
+  background: url(./images/homeshopaccessories.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 19rem;
+  width: 26rem;
+  position: relative;
+  z-index: 0;
+  margin: auto;
+  padding: 1.6rem; }
+
+.home__section2--slide3 {
+  background: url(./images/homeshopretro.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 19rem;
+  width: 26rem;
+  position: relative;
+  z-index: 0;
+  margin: auto;
+  padding: 1.6rem; }
+
+.home__section3--label {
+  flex-direction: column;
+  padding: 0 0 3rem 2rem;
+  font-size: 2rem;
+  letter-spacing: -0.5px;
+  font-weight: 900;
+  display: flex;
+  align-items: center; }
+
+.home__section3 {
+  display: flex;
+  flex-direction: row;
+  width: 70%;
+  margin: auto auto 7rem auto;
+  justify-content: center;
+  align-items: center; }
+
+.home__section3--slide {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  justify-content: center;
+  align-items: center; }
+
+.home__section3--slide h3 {
+  font-size: 1.1rem;
+  margin: 1rem 0;
+  font-weight: 600;
+  letter-spacing: -0.3px; }
+
+.home__section3--slide1--icon {
+  background: url(./images/home_section3--icon--women.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 13rem;
+  width: 13rem;
+  position: relative;
+  z-index: 0;
+  margin: auto; }
+
+.home__section3--slide2--icon {
+  background: url(./images/home_section3--icon-mens.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 13rem;
+  width: 13rem;
+  position: relative;
+  z-index: 0;
+  margin: auto; }
+
+.home__section3--slide3--icon {
+  background: url(./images/home_section3--icon--girls.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 13rem;
+  width: 13rem;
+  position: relative;
+  z-index: 0;
+  margin: auto; }
+
+.home__section3--slide4--icon {
+  background: url(./images/home_section3--icon--boys.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 13rem;
+  width: 13rem;
+  position: relative;
+  z-index: 0;
+  margin: auto; }
+
+.home__section4 {
+  display: flex;
+  flex-direction: row;
+  background-color: antiquewhite;
+  width: 89%;
+  margin: auto auto 3rem auto;
+  justify-content: center;
+  align-items: center; }
+
+.home__section4--sectionimg {
+  width: 42rem;
+  background: url(./images/home__section4--sectionimg--dog.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 36rem;
+  width: 37rem; }
+
+.home__section4--blurb {
+  display: flex;
+  flex-direction: column;
+  width: 27rem;
+  margin: auto;
+  justify-content: center; }
+
+.home__section4--blurb h1 {
+  font-size: 4rem;
+  font-weight: 900;
+  letter-spacing: -3px;
+  line-height: 3rem; }
+
+.home__section4--blurb p {
+  font-size: 0.9rem;
+  font-weight: 400;
+  line-height: 1.5rem;
+  margin: 1rem 1rem 1.5rem 0; }
+
+.home__section4--blurb button {
+  background-color: #fff791;
+  padding: 0.8rem;
+  width: 10rem;
+  border: none;
+  outline: none;
+  font-weight: 400;
+  font-size: 0.8rem; }
+
+.home__section4--blurb h6 {
+  font-weight: 400;
+  font-size: 0.8rem;
+  color: #fff; }
+
+.home__section4--blurb h5 {
+  font-weight: 600;
+  font-size: 1rem;
+  color: #000;
+  padding: 1rem 0;
+  margin: 0;
+  line-height: 1rem; }
+
+.home__section4--blurb span {
+  background-color: #ff4d4d;
+  border-radius: 57px;
+  padding: 0.3rem 0.5rem 0.3rem 0.5rem;
+  outline: none;
+  font-weight: 600;
+  font-size: 0.65rem;
+  color: #fff; }
+
+.home__section5--label {
+  flex-direction: column;
+  padding: 2rem 0 3rem 2rem;
+  font-size: 2rem;
+  letter-spacing: -0.5px;
+  font-weight: 900;
+  display: flex;
+  align-items: center; }
+
+.home__section5 {
+  display: flex;
+  flex-direction: row;
+  width: 89%;
+  margin: auto auto 3rem auto;
+  justify-content: center;
+  align-items: center; }
+
+.home__section5--slide {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  justify-content: center;
+  align-items: center; }
+
+.home__section5--slide1--icon {
+  background: url(./images/home__section5--icon--jeans.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 35rem;
+  width: 35rem;
+  position: relative;
+  z-index: 0;
+  margin: auto; }
+
+.home__section5--slide2--icon {
+  background: url(./images/home__section5--icon--skullbrand.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 35rem;
+  width: 35rem;
+  position: relative;
+  z-index: 0;
+  margin: auto; }
+
+.home__section5--blurb {
+  display: flex;
+  flex-direction: column;
+  width: 35rem;
+  margin: auto;
+  justify-content: center; }
+
+.home__section5--blurb h3 {
+  font-size: 4rem;
+  font-weight: 900;
+  letter-spacing: -3px;
+  line-height: 3rem; }
+
+.home__section5--blurb p {
+  font-size: 0.9rem;
+  font-weight: 400;
+  line-height: 1.5rem;
+  margin: 1rem 1rem 1.5rem 0; }
+
+/*# sourceMappingURL=main.css.map */
