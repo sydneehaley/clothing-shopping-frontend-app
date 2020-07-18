@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e45d2da82451a774846914488f913de2",
+    "revision": "d0aa358614e0206c33eda46bf20b324c",
     "url": "/clothing-shopping-frontend-app/index.html"
   },
   {
-    "revision": "acbe43f5e533f5638ad8",
-    "url": "/clothing-shopping-frontend-app/static/css/main.922f9d61.chunk.css"
+    "revision": "d60ff2982530df91683f",
+    "url": "/clothing-shopping-frontend-app/static/css/main.ae80036f.chunk.css"
   },
   {
     "revision": "95f3077a1666b95d41d9",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/clothing-shopping-frontend-app/static/js/2.8609e20f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "acbe43f5e533f5638ad8",
+    "revision": "d60ff2982530df91683f",
     "url": "/clothing-shopping-frontend-app/static/js/main.f4c3394f.chunk.js"
   },
   {

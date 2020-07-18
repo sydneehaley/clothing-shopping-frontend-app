@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/clothing-shopping-frontend-app/static/css/main.922f9d61.chunk.css",
+    "main.css": "/clothing-shopping-frontend-app/static/css/main.ae80036f.chunk.css",
     "main.js": "/clothing-shopping-frontend-app/static/js/main.f4c3394f.chunk.js",
     "main.js.map": "/clothing-shopping-frontend-app/static/js/main.f4c3394f.chunk.js.map",
     "runtime-main.js": "/clothing-shopping-frontend-app/static/js/runtime-main.7618d35f.js",
@@ -8,9 +8,9 @@
     "static/js/2.8609e20f.chunk.js": "/clothing-shopping-frontend-app/static/js/2.8609e20f.chunk.js",
     "static/js/2.8609e20f.chunk.js.map": "/clothing-shopping-frontend-app/static/js/2.8609e20f.chunk.js.map",
     "index.html": "/clothing-shopping-frontend-app/index.html",
-    "precache-manifest.a03621d74ef981fc423ebc26a6e71b26.js": "/clothing-shopping-frontend-app/precache-manifest.a03621d74ef981fc423ebc26a6e71b26.js",
+    "precache-manifest.27a4645d885d4be3ebeb28cc34083fee.js": "/clothing-shopping-frontend-app/precache-manifest.27a4645d885d4be3ebeb28cc34083fee.js",
     "service-worker.js": "/clothing-shopping-frontend-app/service-worker.js",
-    "static/css/main.922f9d61.chunk.css.map": "/clothing-shopping-frontend-app/static/css/main.922f9d61.chunk.css.map",
+    "static/css/main.ae80036f.chunk.css.map": "/clothing-shopping-frontend-app/static/css/main.ae80036f.chunk.css.map",
     "static/js/2.8609e20f.chunk.js.LICENSE.txt": "/clothing-shopping-frontend-app/static/js/2.8609e20f.chunk.js.LICENSE.txt",
     "static/media/main.css": "/clothing-shopping-frontend-app/static/media/shoeswhitebg.8bed75b4.jpg",
     "static/media/bootstrap.css": "/clothing-shopping-frontend-app/static/media/chevron-right-solid.1fce7054.svg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.7618d35f.js",
     "static/js/2.8609e20f.chunk.js",
-    "static/css/main.922f9d61.chunk.css",
+    "static/css/main.ae80036f.chunk.css",
     "static/js/main.f4c3394f.chunk.js"
   ]
 }
