@@ -1,25 +1,28 @@
 {
   "files": {
-    "main.css": "/clothing-shopping-frontend-app/static/css/main.c40de1a4.chunk.css",
-    "main.js": "/clothing-shopping-frontend-app/static/js/main.d4f52853.chunk.js",
-    "main.js.map": "/clothing-shopping-frontend-app/static/js/main.d4f52853.chunk.js.map",
+    "main.css": "/clothing-shopping-frontend-app/static/css/main.922f9d61.chunk.css",
+    "main.js": "/clothing-shopping-frontend-app/static/js/main.f4c3394f.chunk.js",
+    "main.js.map": "/clothing-shopping-frontend-app/static/js/main.f4c3394f.chunk.js.map",
     "runtime-main.js": "/clothing-shopping-frontend-app/static/js/runtime-main.7618d35f.js",
     "runtime-main.js.map": "/clothing-shopping-frontend-app/static/js/runtime-main.7618d35f.js.map",
-    "static/js/2.ccb55d20.chunk.js": "/clothing-shopping-frontend-app/static/js/2.ccb55d20.chunk.js",
-    "static/js/2.ccb55d20.chunk.js.map": "/clothing-shopping-frontend-app/static/js/2.ccb55d20.chunk.js.map",
+    "static/js/2.8609e20f.chunk.js": "/clothing-shopping-frontend-app/static/js/2.8609e20f.chunk.js",
+    "static/js/2.8609e20f.chunk.js.map": "/clothing-shopping-frontend-app/static/js/2.8609e20f.chunk.js.map",
     "index.html": "/clothing-shopping-frontend-app/index.html",
-    "precache-manifest.b78c253bc46ef2ae77279c93f8d01925.js": "/clothing-shopping-frontend-app/precache-manifest.b78c253bc46ef2ae77279c93f8d01925.js",
+    "precache-manifest.a03621d74ef981fc423ebc26a6e71b26.js": "/clothing-shopping-frontend-app/precache-manifest.a03621d74ef981fc423ebc26a6e71b26.js",
     "service-worker.js": "/clothing-shopping-frontend-app/service-worker.js",
-    "static/css/main.c40de1a4.chunk.css.map": "/clothing-shopping-frontend-app/static/css/main.c40de1a4.chunk.css.map",
-    "static/js/2.ccb55d20.chunk.js.LICENSE.txt": "/clothing-shopping-frontend-app/static/js/2.ccb55d20.chunk.js.LICENSE.txt",
+    "static/css/main.922f9d61.chunk.css.map": "/clothing-shopping-frontend-app/static/css/main.922f9d61.chunk.css.map",
+    "static/js/2.8609e20f.chunk.js.LICENSE.txt": "/clothing-shopping-frontend-app/static/js/2.8609e20f.chunk.js.LICENSE.txt",
     "static/media/main.css": "/clothing-shopping-frontend-app/static/media/shoeswhitebg.8bed75b4.jpg",
     "static/media/bootstrap.css": "/clothing-shopping-frontend-app/static/media/chevron-right-solid.1fce7054.svg",
-    "static/media/dogwearingfur.jpg": "/clothing-shopping-frontend-app/static/media/dogwearingfur.2f9cb5be.jpg"
+    "static/media/dogwearingfur.jpg": "/clothing-shopping-frontend-app/static/media/dogwearingfur.2f9cb5be.jpg",
+    "static/media/salejeans1.jpg": "/clothing-shopping-frontend-app/static/media/salejeans1.4f6a5e0e.jpg",
+    "static/media/salejeans2.jpg": "/clothing-shopping-frontend-app/static/media/salejeans2.d2846401.jpg",
+    "static/media/salejeans3.jpg": "/clothing-shopping-frontend-app/static/media/salejeans3.577643e0.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.7618d35f.js",
-    "static/js/2.ccb55d20.chunk.js",
-    "static/css/main.c40de1a4.chunk.css",
-    "static/js/main.d4f52853.chunk.js"
+    "static/js/2.8609e20f.chunk.js",
+    "static/css/main.922f9d61.chunk.css",
+    "static/js/main.f4c3394f.chunk.js"
   ]
 }

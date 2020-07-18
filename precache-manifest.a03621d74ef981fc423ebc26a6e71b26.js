@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7829cb273f5f34867e655f8283638291",
+    "revision": "e45d2da82451a774846914488f913de2",
     "url": "/clothing-shopping-frontend-app/index.html"
   },
   {
-    "revision": "34dfb7ad433ef9046e03",
-    "url": "/clothing-shopping-frontend-app/static/css/main.c40de1a4.chunk.css"
+    "revision": "acbe43f5e533f5638ad8",
+    "url": "/clothing-shopping-frontend-app/static/css/main.922f9d61.chunk.css"
   },
   {
-    "revision": "5da77f2be6fc26ff7368",
-    "url": "/clothing-shopping-frontend-app/static/js/2.ccb55d20.chunk.js"
+    "revision": "95f3077a1666b95d41d9",
+    "url": "/clothing-shopping-frontend-app/static/js/2.8609e20f.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/clothing-shopping-frontend-app/static/js/2.ccb55d20.chunk.js.LICENSE.txt"
+    "url": "/clothing-shopping-frontend-app/static/js/2.8609e20f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "34dfb7ad433ef9046e03",
-    "url": "/clothing-shopping-frontend-app/static/js/main.d4f52853.chunk.js"
+    "revision": "acbe43f5e533f5638ad8",
+    "url": "/clothing-shopping-frontend-app/static/js/main.f4c3394f.chunk.js"
   },
   {
     "revision": "490fcaf30007147e3233",
@@ -46,10 +46,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c267a8d986e4cc40fc1e632ea6f44864",
     "url": "/clothing-shopping-frontend-app/static/media/home__section4--sectionimg--dog.c267a8d9.jpg"
-  },
-  {
-    "revision": "92871b66ca01a9629cea26f880cf2ba4",
-    "url": "/clothing-shopping-frontend-app/static/media/home__section5--icon--jeans.92871b66.jpg"
   },
   {
     "revision": "a169facdc8fce2c692ba3d26656a402f",
@@ -82,6 +78,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "26ca999744dfef96a9553da1d6e549bc",
     "url": "/clothing-shopping-frontend-app/static/media/homeshopshoes.26ca9997.jpg"
+  },
+  {
+    "revision": "e9144a494b4cadd251e3214f8364921e",
+    "url": "/clothing-shopping-frontend-app/static/media/olivier-rule-dXfhAOU4moY-unsplash.e9144a49.jpg"
+  },
+  {
+    "revision": "4f6a5e0e7b9292788564fb45216e9ef8",
+    "url": "/clothing-shopping-frontend-app/static/media/salejeans1.4f6a5e0e.jpg"
+  },
+  {
+    "revision": "d2846401e0817f039885a6f6de0f1a2c",
+    "url": "/clothing-shopping-frontend-app/static/media/salejeans2.d2846401.jpg"
+  },
+  {
+    "revision": "577643e02156c5f12d4b7a89975247ef",
+    "url": "/clothing-shopping-frontend-app/static/media/salejeans3.577643e0.jpg"
   },
   {
     "revision": "8bed75b445abe1ea0f8a6150a9aac35f",
